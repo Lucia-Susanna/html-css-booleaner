@@ -36,6 +36,7 @@ width: 158px;
 }
 
 thead{
+  font-weight: 900;
   background-color: #20A9E9;
   color: aliceblue;
 }
