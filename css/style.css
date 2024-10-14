@@ -35,6 +35,16 @@ width: 158px;
   background-color: #FBFF00;
 }
 
+thead{
+  background-color: #20A9E9;
+  color: aliceblue;
+}
+
+tbody .riga-dispari{
+  background-color: #9FCFD8;
+}
+
+
 .testo2 span{
   background-color: #FBFF00;
 }
