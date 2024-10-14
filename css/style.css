@@ -1,3 +1,4 @@
+/*header*/
 .box{
   background-color: #4EA1FF;
   background-image: url(../img/pattern.png);
@@ -7,3 +8,20 @@
 height: 40px;
 width: 158px;
 }
+
+.info-utili{
+  color:#878787;
+}
+
+.autore{
+  font-size: 15px;
+}
+
+.data{
+  font-size: 10px;
+}
+
+.autore span{
+  color: #73BEDB;
+}
+/* /header*/
