@@ -38,3 +38,31 @@ width: 158px;
 .testo2 span{
   background-color: #FBFF00;
 }
+
+/*footer*/
+.consigli{
+  color: #878787;
+  font-weight: 900;
+}
+
+.box-consigli1{
+  background-image: url(../img/monitor.jpg);
+  height: 140px;
+  width: 180px;
+}
+
+.box-consigli1 p{
+  color: beige;
+  font-weight: 900;
+}
+.box-consigli2{
+  background-image: url(../img/graph.jpg);
+  height: 140px;
+  width: 180px;
+}
+
+.box-consigli2 p{
+  color: beige;
+  font-weight: 900;
+}
+/* /footer*/
